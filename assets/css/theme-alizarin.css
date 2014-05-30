@@ -35,8 +35,10 @@ body{
  */
 .btn-theme {
   color: #ffffff;
-  background-color: #e74c3c;
-  border-color: #e74c3c;
+  /*background-color: #e74c3c;
+  border-color: #e74c3c;*/
+  background-color: #3cd7e7;
+  border-color: #3cd7e7;
   font-weight: 700;
 }
 
