@@ -48,8 +48,10 @@ body{
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #ffffff;
-  background-color: #bc3e31;
-  border-color: #bc3e31;
+  /*background-color: #bc3e31;
+  border-color: #bc3e31;*/
+  background-color: #31afbc;
+  border-color: #31afbc;
 }
 
 .btn-theme:active,
